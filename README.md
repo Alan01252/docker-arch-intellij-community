@@ -25,6 +25,6 @@ Host docker-intellij
  RemoteForward 64713 localhost:4713
  ForwardX11 yes 
  ForwardX11Trusted yes //Prevents bug with unable to input text in text field
- IdentifiyFile ~/.ssh/alan.hollis
+ IdentitiyFile ~/.ssh/alan.hollis
 ~~~
 
